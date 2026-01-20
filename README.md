@@ -29,7 +29,3 @@ MySQL
 MySQL Workbench
 SQL (DDL & DML)
 
-
-Optimize this for recruiters or data analyst portfolios
-
-Is this conversation helpful so far?
